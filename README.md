@@ -28,7 +28,7 @@ I’m currently working on:
 - **APIs**: Extracting data from RESTful APIs like Twitter and Spotify.
 
 ### 🌍 Connect with me:
-- [LinkedIn](www.linkedin.com/in/ravidu-rupasingha-12a642283)
+- [LinkedIn]([www.linkedin.com/in/ravidu-rupasingha-12a642283](https://www.linkedin.com/in/ravidu-kumara-pathirage-don-rupasingha-12a642283/))
 
 ---
 
